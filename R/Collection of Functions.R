@@ -84,7 +84,7 @@ B_T_Weighted_home <- function(df,ability,u,i0){
     if((k<0.00001)||(j>10000)){
       stop <- 1
     }
-    cat(k,'\n')
+    ##cat(k,'\n')
   }
   return(ability)
 }

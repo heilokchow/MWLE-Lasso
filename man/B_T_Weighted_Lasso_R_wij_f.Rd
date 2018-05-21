@@ -15,7 +15,7 @@ B_T_Weighted_Lasso_R_wij_f(df, ability, i0, u, penalty, uk)
 
 \item{penalty}{Penalty level = s/max(s)}
 
-\item{uk}{Exponetial rate between lambda and true penalty level (usually setting to be -0.642)}
+\item{uk}{Exponetial rate between lambda and true penalty level (usually setting to be 0.642)}
 
 \item{dataframe}{Dataframe with 5 columns. First column is the index of the home teams
 (use numbers to denote teams).

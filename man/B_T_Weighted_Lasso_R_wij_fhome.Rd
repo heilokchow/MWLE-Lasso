@@ -15,7 +15,7 @@ B_T_Weighted_Lasso_R_wij_fhome(df, ability, i0, u, penalty, uk, home)
 
 \item{penalty}{Penalty level = s/max(s)}
 
-\item{uk}{Exponetial rate between lambda and true penalty level (usually setting to be -0.642)}
+\item{uk}{Exponetial rate between lambda and true penalty level (usually setting to be 0.642)}
 
 \item{home}{Fixed home ability}
 
